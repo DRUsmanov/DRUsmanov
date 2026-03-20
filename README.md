@@ -22,6 +22,8 @@
 
 [Transport Catalogue](https://github.com/DRUsmanov/Transport-Catalogue/tree/main) - транспортный справочник позволяющий находить кратчайший маршрут между остановками.
 
+[The System Project](https://github.com/DRUsmanov/the_system_project) - проект по разработке системы управления производственными цехами Газпром нефтехим Салават. Направлен на оптимизацию работы производственного цеха. Охва 100 человек.
+
 <!--
 **DRUsmanov/DRUsmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
