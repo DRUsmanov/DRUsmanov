@@ -15,6 +15,9 @@
 
 ![conan](https://shields.fly.dev/badge/Conan-2.25.1-yellowgreen)
 
+## Проекты
+The Bloodhount - многопользовательский игровой сервер. Игроки управляют собакой, собирают потеряные вещи и сдают их в бюро находок, за что получают очки. Асинхронный сервер реализован с помощью библиотек Boost.Beast и Boost.Asio. Доступ к серверу осуществляется через web - интерфейс.
+
 <!--
 **DRUsmanov/DRUsmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
