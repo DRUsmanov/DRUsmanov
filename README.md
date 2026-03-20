@@ -13,6 +13,8 @@
 
 ![redis](https://shields.fly.dev/badge/Redis-8.2-red)
 
+![conan](https://shields.fly.dev/badge/Conan-2.25.1-yellowgreen)
+
 <!--
 **DRUsmanov/DRUsmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
